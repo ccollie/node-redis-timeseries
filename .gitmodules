@@ -1,0 +1,3 @@
+[submodule "redis-timeseries-lex"]
+	path = redis-timeseries-lex
+	url = https://github.com/ccollie/redis-timeseries-lex

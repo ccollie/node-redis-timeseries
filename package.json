@@ -1,0 +1,28 @@
+{
+  "name": "@guanima/node-redis-timeseries",
+  "version": "1.0.0",
+  "description": "A queryable time series on top of Redis implemented in Lua using lexicographically sorted sets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "redis",
+    "timeseries",
+    "lua"
+  ],
+  "author": "Clayton Collie",
+  "license": "MIT",
+  "dependencies": {
+    "ms": "^2.1.2",
+    "p-all": "^2.1.0"
+  },
+  "devDependencies": {
+    "ioredis": "^4.11.2",
+    "redis": "^2.8.0",
+    "jest": "^24.8.0"
+  },
+  "jest": {
+    "verbose": true
+  }
+}
