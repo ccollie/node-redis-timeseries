@@ -20,7 +20,7 @@
   "devDependencies": {
     "ioredis": "^4.11.2",
     "redis": "^2.8.0",
-    "jest": "^24.8.0"
+    "jest": "^30.0.5"
   },
   "jest": {
     "verbose": true
